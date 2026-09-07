@@ -1,2 +1,2 @@
-# ERD-Search
+# ERD & Search
 Simple ERD- Digarms in Differnt Ways
